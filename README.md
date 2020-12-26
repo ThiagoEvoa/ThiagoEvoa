@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**ThiagoEvoa/ThiagoEvoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEvoa&theme=dark" />
-
-Here are some ideas to get you started:
+### Sup! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
