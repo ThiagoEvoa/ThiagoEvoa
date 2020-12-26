@@ -1,4 +1,4 @@
-### Sup! 👋
+### Sup! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 > I'm a mobile dev trying to learn everyday a new thing!
 
 - :computer: I’m currently working on this repository [flutter examples](https://github.com/ThiagoEvoa/flutter_examples), so if you are studing Flutter make sure to check this out!
