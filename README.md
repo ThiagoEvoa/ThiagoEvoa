@@ -1,5 +1,5 @@
 ### Sup! 👋
-> I'm a mobile dev trying to learn everyday a new things!
+> I'm a mobile dev trying to learn everyday a new thing!
 
 - :computer: I’m currently working on this repository [flutter examples](https://github.com/ThiagoEvoa/flutter_examples), so if you are studing Flutter make sure to check this out!
 - :books: I’m currently learning Flutter
