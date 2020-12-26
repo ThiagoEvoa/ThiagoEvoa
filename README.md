@@ -11,4 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-> I'm a mobile dev trying to learn everyday a new thing! So you may checkout this [flutter examples]() repository, if you are studing Flutter, to see whats going on. 
+> I'm a mobile dev trying to learn everyday a new thing! So you may checkout this [flutter examples](https://github.com/ThiagoEvoa/flutter_examples) repository, if you are studing Flutter, to see whats going on. And if you want to talk to me, send me a message on my social medias down bellow.
+![Twitter URL](https://img.shields.io/twitter/url?label=thiagoEvoa&style=social&url=https%3A%2F%2Ftwitter.com%2Fthiagoevoa2)
