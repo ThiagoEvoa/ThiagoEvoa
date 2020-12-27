@@ -21,4 +21,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-nu-six.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0700ecadd3734456a2351e191c975a5a)
+[<img src="https://novatorem-nu-six.vercel.app/api/spotify-playing" alt="Evoá Spotify Playing" width="350" />](https://open.spotify.com/user/0700ecadd3734456a2351e191c975a5a)
