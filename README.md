@@ -1,5 +1,5 @@
 ### Sup! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-> I'm a mobile dev trying to learn everyday a new thing!
+> I'm just a guy talking to the computer through it language trying to learn everyday a new thing!
 
 - :computer: I’m currently working on these repositories:
   -  [Flutter reference app](https://github.com/ThiagoEvoa/country_app_reference), this is a project that I use to try some stuff in flutter!
