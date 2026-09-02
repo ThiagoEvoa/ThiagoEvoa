@@ -34,6 +34,5 @@ Developer passionate about building high-quality, scalable mobile applications w
 | 🛠️ **[flutter_workspaces_cli](https://github.com/ThiagoEvoa/flutter_workspaces_cli)** | Dart CLI tool to scaffold and manage Flutter multi-package workspace projects. | `Dart` `Flutter` `CLI` |
 | 🤖 **[agent-team](https://github.com/ThiagoEvoa/agent-team)** | Multi-agent development setup with dedicated personas for Flutter development, code reviews, QA, and DevOps. | `AI Agents` `TypeScript` `Python` `MCP` |
 | 🧠 **[headless-ai-mac](https://github.com/ThiagoEvoa/headless-ai-mac)** | Automates Apple Silicon Mac configuration for headless, high-performance local AI inference with Ollama. | `Python` `Apple Silicon` `Ollama` `macOS` |
-| ⚡ **[agent_skills](https://github.com/ThiagoEvoa/agent_skills)** | Collection of reusable skills and workflows for AI agents aiding software development. | `AI Tooling` `Automation` |
 
 ---
