@@ -1,28 +1,39 @@
-### Sup! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-> I'm just a guy talking to the computer through it language trying to learn everyday a new thing!
+<div align="center">
+  <h1>Hi, I'm Thiago Evoá 👋</h1>
+  <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/flutter.svg" alt="Flutter"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/dart.svg" alt="Dart"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/firebase.svg" alt="Firebase"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/git.svg" alt="Git"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/ai.svg" alt="AI"></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/github.svg" alt="GH"></code>
+  <p><strong>Flutter & Dart Specialist | AI-Assisted Tooling & Automation</strong></p>
 
-- :computer: I’m currently working on these repositories:
-  -  [flutter_workspaces_cli](https://github.com/ThiagoEvoa/flutter_workspaces_cli), This is a Dart Cli to create a Flutter project using the workspaces template!
-  -  [agent_skills](https://github.com/ThiagoEvoa/agent_skills), This is a repository with agent skills to help the development!
-  -  [Fake backend](https://github.com/ThiagoEvoa/dynamic_api_dart), this is a dummy project to mock http response and experiment the communication when creating a new client project!
-- :page_facing_up: I'm also writing some articles on Medium, and if you are interested go check it out [my Medium](https://thiagoevoa.medium.com).
-- :books: I’m currently learning Flutter, and for this I'm using the [Flutter doc](https://flutter.dev/docs), [Flutter Youtube channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw) and also the [Flutter Community Youtube channel](https://www.youtube.com/channel/UCNUzIz3TsiHSbgn_66kLIww). 
-- 💬 Ask me about whatever you want on my <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](discordapp.com/users/479237025623441409).
+  <p>
+    <a href="https://thiagoevoa.medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://github.com/ThiagoEvoa"><img src="https://img.shields.io/badge/GitHub-ThiagoEvoa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://discordapp.com/users/479237025623441409"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
+</div>
 
-**Languages and Tools:**
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### 🚀 About Me
 
-### Spotify Playing 🎧
+Developer passionate about building high-quality, scalable mobile applications with **Flutter & Dart**, leveraging modern **AI tooling** to optimize the development workflow.
 
-[![Spotify](https://novatorem-nu-six.vercel.app/api/spotify)](https://open.spotify.com/user/0700ecadd3734456a2351e191c975a5a)
+- 💙 **Primary Focus:** Flutter & Dart application development, clean state management, modular architectures, and custom CLI tools.
+- 🧠 **AI & Tooling:** Building autonomous AI agent teams, custom workflows, and local AI inference setups on Apple Silicon.
+- ✍️ **Writing:** Sharing insights and tutorials about Flutter development on [Medium](https://thiagoevoa.medium.com/).
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🛠️ **[flutter_workspaces_cli](https://github.com/ThiagoEvoa/flutter_workspaces_cli)** | Dart CLI tool to scaffold and manage Flutter multi-package workspace projects. | `Dart` `Flutter` `CLI` |
+| 🤖 **[agent-team](https://github.com/ThiagoEvoa/agent-team)** | Multi-agent development setup with dedicated personas for Flutter development, code reviews, QA, and DevOps. | `AI Agents` `TypeScript` `Python` `MCP` |
+| 🧠 **[headless-ai-mac](https://github.com/ThiagoEvoa/headless-ai-mac)** | Automates Apple Silicon Mac configuration for headless, high-performance local AI inference with Ollama. | `Python` `Apple Silicon` `Ollama` `macOS` |
+| ⚡ **[agent_skills](https://github.com/ThiagoEvoa/agent_skills)** | Collection of reusable skills and workflows for AI agents aiding software development. | `AI Tooling` `Automation` |
+
+---
