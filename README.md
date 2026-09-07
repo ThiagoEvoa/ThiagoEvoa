@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Thiago Evoá](https://thiagoevoa.com/) 👋</h1>
+  <h1>Hi, I'm <a href="https://thiagoevoa.medium.com/"> Thiago Evoá</a> 👋</h1>
   <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/flutter.svg" alt="Flutter"></code>
   <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/dart.svg" alt="Dart"></code>
   <code><img height="24" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/bc5a0110a7bd8839e145b85f664eeda7b961ccb0/icons/dark/firebase.svg" alt="Firebase"></code>
